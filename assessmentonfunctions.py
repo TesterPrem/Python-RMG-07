@@ -7,3 +7,5 @@ def duplic(iterable):
             d[item] = words.count(item)
     print(d)
 duplic(sen)
+import time
+
